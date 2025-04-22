@@ -1,0 +1,4 @@
+env/
+.env
+airflow_reddit_key.pem
+reddit_key.pem
